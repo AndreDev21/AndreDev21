@@ -1,15 +1,34 @@
-🇺🇸
-- 👋 Hi, I’m @AndreDev21, and I'm from Brazil, with fluency in english
-- 👀 I’m interested in backend development
-- 🌱 I’m currently studying system development and analysis
-- 💞️ I’m looking to collaborate on open-sources projects and freelancer jobs.
-- 📫 Reach me at my e-mail :
-andredev2103@gmail.com
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
-🇧🇷
-- 👋 Oi, eu sou o @AndreDev21, sou do brasil, com fluencia em inglês
-- 👀 Estou interessado na área de desenvolvimento backend
-- 🌱 Atualmente entou cursando Analise e Desenvolvimento de Sitemas
-- 💞️ estou a procura de participar de projetos open-source e trabalhar com freelancer
-- 📫 Entre em contato pelo meu e-mail :
-andredev2103@gmail.com
+ <div>
+   <a href="https://github.com/AndreDev21
+">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDev21
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDev21
+&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/AndreDev21
+" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/AndreDev21#5873" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:andredev2103@gmail.com
+.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andré-mattedi-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/AndreDev21
+/AndreDev21
+/blob/output/github-contribution-grid-snake.svg)
+
+</div>
