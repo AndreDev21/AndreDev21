@@ -14,9 +14,9 @@
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor backend apaixonado por criar soluções eficientes, escaláveis e seguras. Trabalho principalmente com **Node.js (NestJS)**, **Next.js**, **Python (FastAPI)** e **PHP**, além de usar **MySQL** e **Redis** no dia a dia. Meu sistema principal é o **Arch Linux com Hyperland**, onde busco sempre performance e personalização no meu ambiente de desenvolvimento.
+Sou desenvolvedor backend apaixonado por criar soluções eficientes, escaláveis e seguras. Trabalho principalmente com **Node.js (NestJS)**, **Next.js**, **Python (FastAPI)** e **PHP**, além de usar **MySQL** e **Redis** no dia a dia. Meu sistema principal é o **Arch Linux com BSPWM**, onde busco sempre performance e personalização no meu ambiente de desenvolvimento.
 
-Gosto de automação comercial, APIs RESTful, microsserviços, arquitetura limpa e boas práticas de código.
+Gosto de APIs RESTful, microsserviços, arquitetura limpa e boas práticas de código.
 
 ---
 
