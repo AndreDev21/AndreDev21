@@ -18,6 +18,8 @@ Sou desenvolvedor backend apaixonado por criar soluções eficientes, escalávei
 
 Gosto de APIs RESTful, microsserviços, arquitetura limpa e boas práticas de código.
 
+Atualmente trabalho na Previnity, um dos principais Bureaus de Dados do país.
+
 ---
 
 ## 🚀 GitHub Stats
