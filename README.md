@@ -38,7 +38,7 @@ Atualmente trabalho na Previnity, um dos principais Bureaus de Dados do país.
 <div style="display: inline_block">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
