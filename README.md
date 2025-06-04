@@ -70,12 +70,12 @@ Se curte conteúdo sobre programação, me acompanha por aqui:
 
 ---
 
-## 🧩 Projetos em destaque
+//## 🧩 Projetos em destaque
 
-- [Sistema de Inventário de Obras](https://github.com/AndreDev21/seu-repo-aqui): Aplicação em Next.js com autenticação JWT, permissões e CRUD completo.
-- [API de Mensagens Instantâneas](https://github.com/AndreDev21/seu-repo-aqui): Backend em FastAPI + SQLAlchemy + PostgreSQL com WebSocket.
-- [Painel Comercial para PDV](https://github.com/AndreDev21/seu-repo-aqui): Gestão de empresas, usuários e produtos com multiempresa e autorização por roles.
+//- [Sistema de Inventário de Obras](https://github.com/AndreDev21/seu-repo-aqui): Aplicação em Next.js com autenticação JWT, permissões e CRUD completo.
+//- [API de Mensagens Instantâneas](https://github.com/AndreDev21/seu-repo-aqui): Backend em FastAPI + SQLAlchemy + PostgreSQL com WebSocket.
+//- [Painel Comercial para PDV](https://github.com/AndreDev21/seu-repo-aqui): Gestão de empresas, usuários e produtos com multiempresa e autorização por roles.
 
----
+//---
 
 ⭐️ **Sinta-se à vontade para clonar, contribuir e me seguir para mais projetos!**
